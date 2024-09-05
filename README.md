@@ -1,5 +1,4 @@
+# 기한정의 이력서
+## 🧑‍💻 데이터 분석가 & 개발자
 
-  
-
-### <div align="center">I'm HanJeong.👨‍💻</div>  
-  
+### Profile\
