@@ -32,9 +32,9 @@
   2019년 8월 8일, 기상청
 
 ## 📰 논문
-- **Improved Mean Field Estimates of GEMS AOD L3 Product: Using Spatio-temporal Variability (게재 승인)**  
+- **Improved Mean Field Estimates of GEMS AOD L3 Product: Using Spatio-temporal Variability**  
   *Atmospheric Measurement Techniques*, 2024  
-  [논문 보기](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-604/)
+  [논문 보기](https://amt.copernicus.org/articles/17/5221/2024/)
   
 - **COVID-19 바이러스 잠복 시간 분포 추정과 치사율 추정을 위한 생존 분석의 적용**  
   *응용통계연구*, 2020  
