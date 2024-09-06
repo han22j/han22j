@@ -33,12 +33,12 @@
 
 ## 📰 논문
 - **Improved Mean Field Estimates of GEMS AOD L3 Product: Using Spatio-temporal Variability**  
-  <br/>Sooyon Kim, Yeseul Cho, **Hanjeong Ki**, Seyoung Park, Dagun Oh, Seungjun Lee, Yeonghye Cho, Jhoon Kim, Wonjin Lee, Jaewoo Park*, Ick Hoon Jin*, Sangwook Kang*
-  *Atmospheric Measurement Techniques*, 2024, [논문 보기](https://amt.copernicus.org/articles/17/5221/2024/)
+  Sooyon Kim, Yeseul Cho, **Hanjeong Ki**, Seyoung Park, Dagun Oh, Seungjun Lee, Yeonghye Cho, Jhoon Kim, Wonjin Lee, Jaewoo Park*, Ick Hoon Jin*, Sangwook Kang*
+  <br/>*Atmospheric Measurement Techniques*, 2024, [논문 보기](https://amt.copernicus.org/articles/17/5221/2024/)
   
 - **COVID-19 바이러스 잠복 시간 분포 추정과 치사율 추정을 위한 생존 분석의 적용**  
-  <br/>**기한정**, 김지은, 김소희, 박주원, 이주행, 김양진*
-  *응용통계연구*, 2020, [논문 보기](http://dx.doi.org/10.5351/KJAS.2020.36.6.777)
+  **기한정**, 김지은, 김소희, 박주원, 이주행, 김양진*
+  <br/>*응용통계연구*, 2020, [논문 보기](http://dx.doi.org/10.5351/KJAS.2020.36.6.777)
 
 ## 🧾 경험 및 자격증
 - **데이터분석 준전문가 (ADsP)** - 한국데이터산업진흥원, 2023년 11월 17일
