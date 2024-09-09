@@ -1,5 +1,5 @@
 # 기한정 (HanJeong Ki)
-![image](https://github.com/user-attachments/assets/0d95af93-5842-48c7-92e5-63dbedf188ad){: width="10" height="10"}
+![image](https://github.com/user-attachments/assets/0d95af93-5842-48c7-92e5-63dbedf188ad){: width="5" height="5"}
 
 
 ## 🧀 나를 표현하는 단어
