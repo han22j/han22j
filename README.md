@@ -48,7 +48,7 @@
 
 2. **추천 시스템 모델 개선**  
    아마존 Book-Crossing 데이터를 분석하고 여러 추천 모델을 적용하여, 생성형 딥러닝 모델인 Diffusion Recommender System을 적용하여 높은 정확도의 모델을 제안.
-   [페이지 보기]([https://www.notion.so/5d1b68b1b2304ae1a1a6144476debab6](https://www.notion.so/04eac02c58b04a4789b52d8ad15c38e8)
+   [페이지 보기](https://www.notion.so/04eac02c58b04a4789b52d8ad15c38e8)
    
 3. **시공간 평균장 알고리즘 개선 / 국립 환경 과학원**  
    시공간 병합 방법을 사용하여 GEMS의 에어로졸 광학 두께(AOD) 측정의 정밀도를 향상시키는 새로운 알고리즘을 제안.
