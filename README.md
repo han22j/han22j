@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/72814d70-2b86-475a-91d5-4b1ba83daf8e" width="50%" height="50%">
-</div>
+![image](https://github.com/user-attachments/assets/da94423e-9384-40f7-a765-6f9a9d5ee065)
 
 ## 🧀 나를 표현하는 단어
 - "일희일비" : 사소한 것에 즐거워 하고 행복해 하고 즐거워 하는 편 입니다! 소품샵 탐방을 하면서 여러 예쁜 쓰레기를 모으곤 합니다:)
