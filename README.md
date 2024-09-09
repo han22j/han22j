@@ -18,12 +18,12 @@
 - Low level: MySQL, SAS
 
 ## 🏆 수상 경력
-- **연세 빅데이터 경진대회 (최우수상)**  
-  2023년 8월 25일, 연세대학교
+- **빅데이터 경진대회 (최우수상)**  
+  2023년 8월 25일
 - **R Shiny 애플리케이션 개발 대회 (최우수상)**  
-  2023년 2월 17일, 연세대학교
+  2023년 2월 17일
 - **날씨 빅데이터 콘테스트 (우수상)**  
-  2019년 8월 8일, 기상청
+  2019년 8월 8일
 
 ## 📰 논문
 - **Improved Mean Field Estimates of GEMS AOD L3 Product: Using Spatio-temporal Variability**  
