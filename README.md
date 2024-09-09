@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/0d95af93-5842-48c7-92e5-63dbedf188ad" alt="description" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/72814d70-2b86-475a-91d5-4b1ba83daf8e" width="50%" height="50%">
 </div>
 
 ## 🧀 나를 표현하는 단어
