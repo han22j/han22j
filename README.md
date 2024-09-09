@@ -1,5 +1,6 @@
 # 기한정 (HanJeong Ki)
-<img src="https://github.com/user-attachments/assets/da073158-ff6c-49ff-9127-ec159dbb76bd" width="500" height="400"/>)
+![image](https://github.com/user-attachments/assets/0d95af93-5842-48c7-92e5-63dbedf188ad){: width="50" height="50"}
+
 
 ## 🧀 나를 표현하는 단어
 - "일희일비" : 사소한 것에 즐거워 하고 행복해 하고 즐거워 하는 편 입니다! 소품샵 탐방을 하면서 여러 예쁜 쓰레기를 모으곤 합니다:)
